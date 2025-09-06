@@ -8,7 +8,7 @@ public class RectanglePattern {
             for(int j=0;  j<cols; j++){
                 System.out.print("*");
             }
-            System.out.println( " ");
+            System.out.println(" ");
         }
     }
 }
